@@ -1,0 +1,28 @@
+fields:
+  orgname:
+    label: Organization Name
+    placeholder: Org Name
+
+  shortbio:
+    label: Short About Us
+    placeholder: About excerpt
+
+  location:
+    label: Organization Physical Location
+    placeholder: XYZ Building, D Flr, Str A, Town K
+
+  email:
+    label: Organization Main Contact email
+    placeholder: email@domain.ext
+
+  phone:
+    label: Organization Phone Number
+    placeholder: +254-XXX-XXX-XXX
+
+  facebook:
+    label: Facebook
+    placeholder: facebookpagename
+
+  twitter:
+    label: Twitter Account
+    placeholder: twitterAccount
